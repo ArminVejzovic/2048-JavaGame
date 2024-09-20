@@ -3,15 +3,15 @@
 
 1. Introduction
 
-2048 is a sliding puzzle game where players combine numbered tiles on a grid to create larger numbers, aiming to reach the tile with the number 2048. Players can continue playing even after reaching 2048 to achieve higher scores. The game ends when no more legal moves are available.
+   2048 is a sliding puzzle game where players combine numbered tiles on a grid to create larger numbers, aiming to reach the tile with the number 2048. Players can continue playing even after reaching 2048 to achieve higher scores. The game ends when no more legal moves are available.
 
-This implementation of 2048 is written in Java using Eclipse IDE and is structured into multiple packages, ensuring separation of game logic, user interfaces (both GUI and console), and data storage.
+   This implementation of 2048 is written in Java using Eclipse IDE and is structured into multiple packages, ensuring separation of game logic, user interfaces (both GUI and console), and data storage.
 
 2. Tehnologies:
    
   Java
 
-4. Project Structure
+3. Project Structure
 
 The project is organized as follows:
 
@@ -36,7 +36,7 @@ The project is organized as follows:
 
     README.md: The file you are currently reading.
 
-5. Setup Instructions
+4. Setup Instructions
 
 To run the project locally, follow these steps:
 
@@ -61,11 +61,11 @@ Build and run the project:
         Igra2048Konzola (for console interface)
   
 
-6. How to Play
+5. How to Play
 
   The game can be played either through the GUI or console interface.
   
-  6.1 GUI Interface:
+  5.1 GUI Interface:
   
         Arrow keys:
         (Up, Down, Left, Right) 
@@ -78,7 +78,7 @@ Build and run the project:
   The goal is to reach the 2048 tile, but players can continue playing after reaching 2048 to 
   achieve higher scores.
   
-  6.2 Console Interface:
+  5.2 Console Interface:
   
       Arrow keys:
           "W" - Move Up
@@ -100,7 +100,7 @@ Build and run the project:
   
   Points are calculated based on the merged tiles, and you can check your score anytime by pressing B.
 
-7. Game Features
+6. Game Features
 
     4x4 Grid: Standard game grid where tiles are moved and combined.
 
