@@ -96,7 +96,7 @@ Build and run the project:
   
   The current state of the game is displayed in console after every move, showing the updated board and any tile merges.
   
-  The goal is to create a tile with the value 2048, but you can continue playing.
+  The goal is to create a tile with the value 2048, but you can continue playing after reaching 2048 tile to achive higher scores.
   
   Points are calculated based on the merged tiles, and you can check your score anytime by pressing B.
 
